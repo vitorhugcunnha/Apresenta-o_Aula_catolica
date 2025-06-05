@@ -1,3 +1,5 @@
+//Faça um programa que peça um número e imprima se o número é par ou ímpar. 
+
 #include <stdio.h>
 #include <stdlib.h>
 

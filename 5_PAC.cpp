@@ -1,3 +1,5 @@
+// Faça um programa que peça um número e informe se o número é inteiro ou quebrado. 
+
 #include <stdio.h>
 #include <stdlib.h>
 
